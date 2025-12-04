@@ -25,4 +25,3 @@ No restrictions. No attribution required. Run it live tomorrow on QuantConnect, 
 ### Files
 - `ChaosHybrid7030_v2.py` → Full QuantConnect algorithm (copy-paste ready)
 
-Built with blood, sweat, and Grok. Enjoy.
